@@ -8,20 +8,17 @@ sections:
   - section_id: about
     type: section_content
     title: Sobre mí
-    content: >+
+    content: >
       Me encanta contar historias, soy adicto a ellas. Pero sobre todo me
       encanta vivirlas.
 
 
       Me gusta aprender de todo, exploro y aprendo algo sobre cada tecnología
-      que descubro por pura pasión. 
+      que descubro por pura pasión y diversión
 
 
       Escribo, edito, aprendo, enseño, gestiono, lidero, me equivoco y sorprendo
       con ideas locas 24/7.
-
-
-
     actions:
       - label: 'Hablemos, seamos amigos'
         url: /contact
