@@ -1,8 +1,9 @@
 ---
 title: DUX Solutions
 excerpt: >-
-  ¿Qué sucede si juntas un desarrollador, un diseñador y a mi persona (no sé
-  cómo definirme)?
+  ¿Qué sucede si juntas un desarrollador, un diseñador y a alguien constatemente
+  inquieto por aprender marketing? Exacto, empiezas a ver como una pequeña
+  agencia empieza a crecer.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
