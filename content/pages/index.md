@@ -39,7 +39,7 @@ sections:
     title: Últimos inventos
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Ver más
         url: blog/index.html
         style: button
 seo:
