@@ -31,7 +31,7 @@ sections:
       Escribo, edito, aprendo, enseño, gestiono, lidero, me equivoco y sorprendo
       con ideas locas 24/7.
     actions:
-      - label: Contact Me
+      - label: 'Hablemos, seamos amigos'
         url: /contact
         style: button
   - section_id: recent-posts
