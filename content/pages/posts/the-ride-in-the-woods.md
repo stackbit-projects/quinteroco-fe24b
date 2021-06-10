@@ -1,9 +1,7 @@
 ---
 title: Septimo Crítico
 subtitle: A cautionary tale about riding
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+excerpt: "Después de la muerte de\_ mi padre mi mundo se vino abajo. Sin trabajo, sin título, sin experiencia sobre la vida y las cuentas a fin de mes."
 date: '2018-01-23'
 thumb_img_path: images/3.jpg
 thumb_img_alt: A motorcycle in a forest
